@@ -1,5 +1,5 @@
 torch==2.3.0
-transformers==4.35.0
+transformers
 speechbrain==0.5.16
 librosa==0.10.0
 soundfile
